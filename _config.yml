@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            
+title: "Carleton Atwater"            
 description:          'Developer | Writer'
 tagline:      "Carleton Atwater"
 url:              https://fongandrew.github.io/hydeout
@@ -15,7 +15,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'Carleton Atwater'
-  url:            https://twitter.com/fongandrewc
+  url:            https://twitter.com/pca2
 
 paginate:         5
 # paginate_path:    '/page:num'
