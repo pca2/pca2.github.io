@@ -6,12 +6,20 @@
       {% include svg/github.svg %}
     </a>
   {% endif %}
+    <a id="twitter-link"
+       class="icon"
+       title="Twitter" aria-label="Twitter"
+       href="{{ site.author.url}}">
+      {% include svg/twitter.svg %}
+    </a>
+    <a id="email-link"
+       class="icon"
+       title="Email" aria-label="Email"
+       href="mailto:{{ site.author.email}}">
+      {% include svg/close-envelope.svg %}
+    </a>
+    <br/>
 
-  <a id="subscribe-link"
-     class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.baseurl }}/feed.xml">
-    {% include svg/feed.svg %}
-  </a>
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
@@ -26,6 +34,7 @@
     {% endif %}
   {% endfor %}
 
+  {% comment %}
   {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
@@ -34,6 +43,7 @@
       {% include svg/tags.svg %}
     </a>
   {% endif %}
+  {% endcomment %}
 
   {% if search_page %}
     <a id="search-link"
@@ -43,12 +53,5 @@
       {% include svg/search.svg %}
     </a>
   {% endif %}
-    <a id="twitter-link"
-       class="twitter"
-       title="Twitter" aria-label="Twitter"
-       href="{{ site.baseurl }}{{ search_page.url }}">
-      {% include svg/twitter.svg %}
-    </a>
-
   {% include custom-icon-links.html %}
 </nav>
