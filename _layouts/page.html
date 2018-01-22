@@ -3,7 +3,10 @@ layout: default
 ---
 
 <header>
-  <h1 class="page-title">{{ page.title }}</h1>
+  {% if page.title == "main_home" %}
+  {% else %}
+    <h1 class="page-title">{{ page.title }}</h1>
+  {% endif %}
 </header>
 <div class="content">
   {{ content }}
