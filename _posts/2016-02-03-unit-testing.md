@@ -1,8 +1,7 @@
 ---
 title:  "Ruby Unit Testing with MiniTest"
 date:   2016-02-03 15:04:23
-categories: [tutorials]
-tags: [ruby, unit testing, MiniTest, tdd]
+tags: [ruby, unit testing, MiniTest, TDD]
 layout: post
 ---
 
