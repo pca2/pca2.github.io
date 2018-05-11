@@ -7,7 +7,8 @@ layout: post
 
 **Part 1: What is Unit Testing?**
 
-The main idea behind unit testing is rather than test an entire script or application  manually, we automatically test each unit of code that comprises it. Another way to think of it might block testing, or method testing. This means that if a script fails a test, not only will we know what specific component caused the failure, but we'll also know what the output of that component was supposed to be. If you're anything like me there have been many times when some old script has failed because a variable was nil, and then I have to go figure out what the value was supposed to be before I can fix it. Testing will make that easier.
+The main idea behind unit testing is rather than test an entire script or application manually, we automatically test each unit of code that comprises it. In Ruby this frequently means testing each method or each code block. With proper unit testing in place you'll be able to quickly identify any underlying issues with your code.
+
 
 **Note**: Although we'll be using Ruby and MiniTest for most of this lesson, most of the concepts are universal. There are testing frameworks for Bash too, and while we're going to start with Ruby, we'll eventually be writing Bash tests as well.
 
