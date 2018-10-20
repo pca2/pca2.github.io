@@ -73,12 +73,10 @@ exports = function(changeEvent) {
    }
 };
 ```
-
-
 Here\'s the sections of the code you will want to change:
 
 - http service name: In my case it was \"wt\_http\_service.\"
-- `slackURL`: use the webhook URL you received from Slack.
+- `slackURL`: Use the webhook URL you received from Slack.
 - `thresholdWeight`: Set to whatever you feel is appropriate.
 
 Once everything is filled out, click the **Save** Button.
@@ -88,4 +86,4 @@ Wrapping Up
 
 That should be it. Now when we enter a weight above our threshold, everyone in our choosen Slack channel will be notified and I\'ll promise to have a salad for lunch.
 
-Obviously, we\'re just scratching the surface with this little project. Hopefully you now see how easy it is to combine triggers and service integrations to create really impactful features. Check out our [official tutorials](https://docs.mongodb.com/stitch/tutorials/) to see what other neat things you can bring to life with MongoDB Stitch.
+Obviously, we\'re just scratching the surface with this little project. Hopefully you now see how easy it is to combine triggers and service integrations to create really impactful features. Check out the [official tutorials](https://docs.mongodb.com/stitch/tutorials/) to see what other neat things you can bring to life with MongoDB Stitch.
