@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>ToolCo Renting App</title>
+    <title>ToolCo Rental App</title>
     <meta charset="utf-8">
     <style>
       @import url(https://fonts.googleapis.com/css?family=Segoe UI);
@@ -18,56 +18,103 @@
   </head>
   <body>
     <textarea id="source">
+class: center, middle
 
-#Users should be able to view the current inventory
+# ToolCo Rental App 
+
+## Features and Requirements
+
+---
+
+# Two types of users
+
+- ### Customers
+- ### Admin users
+
+---
+
+class: center, middle
+
+Customer Features
+
+---
+
+#Customers should be able to view the current inventory
 
 ## Requirements:
 - Initial inventory should be loaded into database
-- User should immediately see the current inventory of tools available for rent
+- Customer should be able to see the current inventory of tools available for rent
 - Site should be fully functional on all screen sizes, from mobile to desktop
 - Current inventory can be kept up to date by admin user
 
 ---
 
-# Users should be able to search for specific tools
-
+# Customers should be able to search for specific tools
 
 ## Requirements:
-- When user searches for specific tool name or brand, matching inventory will be shown
-
+- When customer searches for specific tool name or brand, matching inventory will be shown
 
 ---
 
-# Users should be able to register an account
-
+# Customers should be able to register an account
 
 ## Requirements:
-  - Users should be able to quickly register for an account so we can track which user has rented which tools 
-  - After registering, users should be able to sign into their account
+  - Customers should be able to quickly register for an account so we can track rentals and payments 
+  - After registering, customers should be able to sign in and out of their account
 
 ---
 
-# Users should be able to update their account details
+# Customers should be able to update their account details
 
 ## Requirements: 
-  - Users should be able to update their account details so they can provide us with their most up to date contact information
+  - Customers should be able to update their account details so they can provide us with their most up to date contact and payment information
 
 ---
 
-# Users should be able to rent tools
+# Customers should be able to rent tools
 
 ## Requirements:
-  - Signed-in users should be able reserve a tool rental
-  - Signed-in users should be able to pay online for their tool rental
-  - Signed-in users should be able to see their current rentals and when they end
+  - Signed-in customers should be able reserve a tool rental
+  - Signed-in customers should be able to pay online for their tool rental
+  - Signed-in customers should be able to see their current rentals and when they end
+  - Signed-in customers should be able to see where they can pick up and return their tools
 
-      
+---
+class: center, middle
+
+Admin Features
+
 ---
 
-# Admin users should be able view the current inventory 
+# Admin users should be able maintain inventory database
 
 ## Requirements:
-  -
+  - Admin users should be able to search for tools in the rentals database 
+  - Admin users should be able to create, view, update and delete tools in rental database
+  - Changes made by admin user should immediately be seen by customer
+
+---
+
+# Admin user should be able to search for customers
+
+## Requirements: 
+  - Admin users should be able to search for specific customers in the user database 
+
+---
+
+# Admin user should be able to view and update customer information
+
+## Requirements: 
+  - Admin users should be able to view details on specific users
+  - Admin users should be able to update user details, so they can assist with any customer service requests
+
+---
+
+# Next Steps
+
+### Tool Inventory
+### Payment Processing
+
 
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
