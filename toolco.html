@@ -8,12 +8,18 @@
       @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700,400italic);
       @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
-      body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif; }
+      body { 
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif; 
+      }
       h1, h2, h3 {
        <!-- font-family: 'Yanone Kaffeesatz'; -->
         font-weight: normal;
       }
       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+       .remark-slide-content li {
+        font-size: 30px ;
+        margin-bottom: 5px;
+      }
     </style>
   </head>
   <body>
@@ -25,11 +31,12 @@ class: center, middle
 ## Features and Requirements
 
 ---
+class: center, middle
 
 # Two types of users
 
-- ### Customers
-- ### Admin users
+### Customers
+### Admin users
 
 ---
 
@@ -38,16 +45,16 @@ class: center, middle
 # Customer Features
 
 ---
+class: middle
 
 #Customers should be able to view the current inventory
 
 ## Requirements:
-- Initial inventory should be loaded into database
 - Customer should be able to see the current inventory of tools available for rent
 - Site should be fully functional on all screen sizes, from mobile to desktop
-- Current inventory can be kept up to date by admin user
 
 ---
+class:  middle
 
 # Customers should be able to search for specific tools
 
@@ -55,14 +62,17 @@ class: center, middle
 - When customer searches for specific tool name or brand, matching inventory will be shown
 
 ---
+class:  middle
 
 # Customers should be able to register an account
 
 ## Requirements:
   - Customers should be able to quickly register for an account so we can track rentals and payments 
   - After registering, customers should be able to sign in and out of their account
+  - Customers should be able to contact ToolCo with any customer service requests
 
 ---
+class:  middle
 
 # Customers should be able to update their account details
 
@@ -70,14 +80,16 @@ class: center, middle
   - Customers should be able to update their account details so they can provide us with their most up to date contact and payment information
 
 ---
+class:  middle
 
 # Customers should be able to rent tools
 
 ## Requirements:
-  - Signed-in customers should be able reserve a tool rental
-  - Signed-in customers should be able to pay online for their tool rental
-  - Signed-in customers should be able to see their current rentals and when they end
-  - Signed-in customers should be able to see where they can pick up and return their tools
+
+- Signed-in customers should be able reserve a tool rental
+- Signed-in customers should be able to pay online for their tool rental
+- Signed-in customers should be able to see their current rentals and when they end
+- Signed-in customers should be able to see where they can pick up and return their tools
 
 ---
 class: center, middle
@@ -85,15 +97,19 @@ class: center, middle
 # Admin Features
 
 ---
+class:  middle
 
 # Admin users should be able maintain inventory database
 
 ## Requirements:
-  - Admin users should be able to search for tools in the rentals database 
-  - Admin users should be able to create, view, update and delete tools in rental database
-  - Changes made by admin user should immediately be seen by customer
+
+- Initial inventory should be loaded into database
+- Admin users should be able to search for tools in the rentals database 
+- Admin users should be able to create, view, update and delete tools in rental database
+- Changes made by admin user should immediately be seen by customer
 
 ---
+class:  middle
 
 # Admin user should be able to search for customers
 
@@ -101,6 +117,7 @@ class: center, middle
   - Admin users should be able to search for specific customers in the user database 
 
 ---
+class:  middle
 
 # Admin user should be able to view and update customer information
 
@@ -109,6 +126,7 @@ class: center, middle
   - Admin users should be able to update user details, so they can assist with any customer service requests
 
 ---
+class: center, middle
 
 # Next Steps
 
