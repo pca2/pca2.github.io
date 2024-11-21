@@ -78,6 +78,7 @@ Stick to the schedule and record your progress in your sleep diary every day. Th
 **If you can't sleep, get out of bed**
 - Even with this new reduced amount of time in bed, you still may find that you can't always stay asleep the full night. That's okay, everyone has bad nights sometimes. 
 - If you find yourself awake in bed for longer that 15-20 minutes, get out of the bed. Go do something relaxing like reading, or watching something calming on TV for 30ish minutes, then come back to bed and try again.
+
 ### Step 4: Adjust your schedule
 
 Once a week, review your results and make any appropriate adjustments to your sleep schedule. 
@@ -86,9 +87,8 @@ Once a week, review your results and make any appropriate adjustments to your sl
 
 If it was above 80%: 
 - It's time to expand your time in bed by 15-30 minutes.
-- If your sleep schedule was previously in bed at 2am, out of bed at 7am
-- Your new schedule can be: in bed at 1:30am, out bed at 7am
-- When expanding your time in bed it's usually suggested your update your bed time and leave your out of bed time consistent, but it's up to you.
+- If your sleep schedule was previously in bed at 2am, out of bed at 7am, your new schedule can be in bed at 1:30am, out bed at 7am
+- When expanding your time in bed it's usually suggested you update your get in bed time and leave your get out of bed time consistent, but it's up to you.
 
 
 If it was below 80%
@@ -102,7 +102,9 @@ Now that you've got your new schedule it's time to repeat the process:
 - Stick to your schedule for another week, recording your process in your sleep diary
 - Every week, calculate your sleep efficiency and update your schedule based on how well your did
 
-Slowly be surely you will expand how much your sleeping every night. Continue the process until your happy with how much sleep you're getting. It can be tempting to skip ahead after a few successful nights or week, but I promise it's slow and steady that delivers the best results with this process.
+Slowly but surely you will expand how much your sleeping every night. Continue the process until your happy with how much sleep you're getting. It can be tempting to skip ahead after a few successful nights or week, but I promise it's slow and steady that delivers the best results with this process.
+
+
 ### Why does this work?
 - Consolidates sleep: By limiting time in bed, SRT helps consolidate sleep into a more continuous and efficient period, reducing fragmented sleep patterns.
 - Realigns circadian rhythm: It helps reset the body's internal clock by creating a consistent sleep schedule.
