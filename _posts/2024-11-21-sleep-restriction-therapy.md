@@ -118,5 +118,7 @@ Here are some general tips to improving your sleep, regardless of whether your d
 - Use your bed only for sleep. Don't read or look at screens or do anything else in your bed, just sleep.
 - Avoid bright lights before bed, especially blue lights (like most screens)
 
-**Trust The Process**
+
+**Trust The Process** 
+
 I know all of this probably sounds like a lot, and I was certainly pretty skeptical when I first tried the program, but it really helped me. Anxiety can be one of the strongest sources of insomnia, and as you struggle with insomnia, that anxiety can compound in a vicious cycle. Personally it was really helpful and calming to know that I had a system in place that was going to improve my sleep. Even if I had a bad night, I didn't need to worry about it, all I had to do was trust the process.
