@@ -71,7 +71,7 @@ After you've gathered a week or two of results, it's time to look at your curren
 
 You should now have a "sleep prescription" that you should be following every single night. For example:
 - In bed and lights out at 2am
-- Wake at 7am
+- Awake and out of bed at 7am
 
 Stick to the schedule and record your progress in your sleep diary every day. That's all you have to do for the moment.
 
@@ -87,11 +87,11 @@ Once a week, review your results and make any appropriate adjustments to your sl
 
 If it was above 80%: 
 - It's time to expand your time in bed by 15-30 minutes.
-- If your sleep schedule was previously in bed at 2am, out of bed at 7am, your new schedule can be in bed at 1:30am, out bed at 7am
+- If your sleep schedule was previously in bed at 2am, out of bed at 7am, your new schedule can be in bed at 1:30am, out of bed at 7am
 - When expanding your time in bed it's usually suggested you update your get in bed time and leave your get out of bed time consistent, but it's up to you.
 
 
-If it was below 80%
+If it was below 80%:
 - You may want to think about reducing your time in bed by 15 minutes
 - So instead of in bed at 2am, out of bed at 7am it would be in bed at 2:15am
 - Generally speaking it's not recommend you reduce your time in bed much below 4 hours
@@ -102,7 +102,7 @@ Now that you've got your new schedule it's time to repeat the process:
 - Stick to your schedule for another week, recording your process in your sleep diary
 - Every week, calculate your sleep efficiency and update your schedule based on how well your did
 
-Slowly but surely you will expand how much your sleeping every night. Continue the process until your happy with how much sleep you're getting. It can be tempting to skip ahead after a few successful nights or week, but I promise it's slow and steady that delivers the best results with this process.
+Slowly but surely you will expand how much your sleeping every night. Continue the process until your happy with how much sleep you're getting. It can be tempting to skip ahead after a few successful nights or weeks, but I promise it's slow and steady progress that delivers the best results with this process.
 
 
 ### Why does this work?
@@ -117,3 +117,6 @@ Here are some general tips to improving your sleep, regardless of whether your d
 - Cut out or at least severely reduce caffeine from your diet
 - Use your bed only for sleep. Don't read or look at screens or do anything else in your bed, just sleep.
 - Avoid bright lights before bed, especially blue lights (like most screens)
+
+**Trust The Process**
+I know all of this probably sounds like a lot, and I was certainly pretty skeptical when I first tried the program, but it really helped me. Anxiety can be one of the strongest sources of insomnia, and as you struggle with insomnia, that anxiety can compound in a vicious cycle. Personally it was really helpful and calming to know that I had a system in place that was going to improve my sleep. Even if I had a bad night, I didn't need to worry about it, all I had to do was trust the process.
