@@ -9,7 +9,7 @@ layout: post
 **I'm not a medical professional and have no medical training.** I'm just a guy with insomnia and this is something that helped me out, perhaps it will help you out too.
 ## What is Sleep Restriction Therapy?
 
-[Sleep Restriction Therapy](https://stanfordhealthcare.org/medical-treatments/c/cognitive-behavioral-therapy-insomnia/procedures/sleep-restriction.html) (SRT) is a treatment for insomnia developed by  Arthur Spielman, PhD. The way I like to think about SRT is that it's a little bit like a "Couch to 5K" program, only for sleeping. If you not familiar, [Couch to 5k](https://c25k.com/) is a popular running program and exercise schedule designed to gradually train folks not in the habit of running long distances to slowly build up their stamina and strength until they can regularly run 5KM or longer. SRT similarly tries to train your body to consistently sleep longer and longer amounts through a new sleeping schedule that you create that's customized to you. It does this not by reducing the amount of sleep you get, but the amount of time you spend in bed. Also like Couch to 5K programs this is not something be accomplished in a few days. It can take weeks or months to get to where you want to be in terms of how much your sleeping, but if you stick with it you should see things slowly improve.
+[Sleep Restriction Therapy](https://stanfordhealthcare.org/medical-treatments/c/cognitive-behavioral-therapy-insomnia/procedures/sleep-restriction.html) (SRT) is a treatment for insomnia developed by  Arthur Spielman, PhD. The way I like to think about SRT is that it's a little bit like a "Couch to 5K" program, only for sleeping. If you not familiar, [Couch to 5k](https://c25k.com/) is a popular running program and exercise schedule designed to gradually train folks not in the habit of running long distances to slowly build up their stamina and strength until they can regularly run 5KM or longer. SRT similarly tries to train your body to consistently sleep longer and longer amounts through a new customized sleeping schedule. It does this not by reducing the amount of sleep you get, but the amount of time you spend in bed. Also like Couch to 5K programs this is not something that can be accomplished in just a few days. It can take weeks or months to get to where you want to be in terms of how much your sleeping, but if you stick with it you should see things slowly improve.
 
 ### The Limits of Sleep Restriction Therapy
 
@@ -53,7 +53,7 @@ Personally I recommend the [CBT-i](https://mobile.va.gov/app/cbt-i-coach) smartp
 
 ### Step 2: Create a new schedule 
 
-After you've gathered a week or two of results, it's time to  look and the results create a new schedule based on your current habits: 
+After you've gathered a week or two of results, it's time to look at your current habits: 
 
 **Set a Time-in-Bed Schedule**:
 - Calculate your average sleep efficiency and your average actual sleep time from the base line data.
